@@ -13,7 +13,8 @@ Haskellで簡単なテトリスゲームを作ります。GUIはGtkとGtk2Hsを�
 [Haskellでテトリス(Part3)](http://newral.info/publics/index/79/r_id=236/c_id=341/detail=1/&anchor_link=page79_341_236#page79_341_236)  
 [Haskellでテトリス(Part4)](http://newral.info/publics/index/79/r_id=237/c_id=341/detail=1/&anchor_link=page79_341_237#page79_341_237)  
 
-**テトリス完成まで随時更新中**
+***テトリス完成まで随時更新中***  
+
 
 ###ソースコードガイド
 
