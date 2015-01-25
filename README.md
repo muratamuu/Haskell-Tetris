@@ -15,6 +15,7 @@ Haskellで簡単なテトリスゲームを作ります。GUIはGtkとGtk2Hsを�
 [Haskellでテトリス(Part5)](http://newral.info/publics/index/79/r_id=239/c_id=341/detail=1/&anchor_link=page79_341_239#page79_341_239)  
 [Haskellでテトリス(Part6)](http://newral.info/publics/index/79/r_id=241/c_id=341/detail=1/&anchor_link=page79_341_241#page79_341_241)  
 [Haskellでテトリス(Part7)](http://newral.info/publics/index/79/r_id=246/c_id=341/detail=1/&anchor_link=page79_341_246#page79_341_246)  
+[Haskellでテトリス(Part8)](http://newral.info/publics/index/79/r_id=248/c_id=341/detail=1/&anchor_link=page79_341_248#page79_341_248)  
 
 ***テトリス完成まで随時更新中***  
 
@@ -26,6 +27,7 @@ Tetris_part4.hs (Part4でプログラミングしたソースコード)
 Tetris_part5.hs (Part5でプログラミングしたソースコード)  
 Tetris_part6.hs (Part6でプログラミングしたソースコード)  
 Tetris_part7.hs (Part7でプログラミングしたソースコード)  
+Tetris_part8.hs (Part8でプログラミングしたソースコード)  
 
 
 ###動作確認環境
