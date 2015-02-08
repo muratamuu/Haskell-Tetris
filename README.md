@@ -20,6 +20,7 @@ Haskellで簡単なテトリスゲームを作ります。GUIはGtkとGtk2Hsを�
 
 ***Part9でテトリス完成!!***  
 
+<img src="20150208_00.png" alt="テトリス画像" width="20%" height="20%" />
 
 ###ソースコードガイド
 
